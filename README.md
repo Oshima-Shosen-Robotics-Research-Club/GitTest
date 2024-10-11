@@ -1,4 +1,4 @@
 # GitTest
 Gitの練習ができます。
 sdfasfasdfasfds
-robocon2024
+robocon.oshima2024
